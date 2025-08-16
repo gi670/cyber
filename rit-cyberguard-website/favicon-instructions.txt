@@ -1,0 +1,18 @@
+# Favicon Instructions
+
+To complete your website setup:
+
+1. Create or obtain a favicon.ico file (16x16 or 32x32 pixels)
+2. Use your RIT CyberGuard logo or a security-themed icon
+3. Name it "favicon.ico"
+4. Place it in the root directory (same folder as index.html)
+
+You can create a favicon online using:
+- favicon.io
+- favicon-generator.org
+- canva.com (create 32x32 px design and export as ICO)
+
+Recommended design:
+- Use RIT Orange (#F76902) and Cyber Blue (#00B4D8)
+- Simple shield or lock icon
+- Readable at small size
